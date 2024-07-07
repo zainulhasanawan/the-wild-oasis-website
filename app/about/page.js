@@ -1,5 +1,5 @@
-import Image from "next/image";
 import image1 from "@/public/about-1.jpg";
+import Image from "next/image";
 
 export const metadata = {
   title: "About",
